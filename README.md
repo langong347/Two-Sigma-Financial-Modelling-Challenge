@@ -18,3 +18,4 @@ I tried both principal components and ridge regressions. Their results are summa
 The results of PC and Ridge are published separately in "Results of Principal Component and Ridge Regression.docx'.
 
 The Jupyter Notebook explores further on the relation of 'technical_20' and 'technical_30' to 'y'.
+Path: Two-Sigma-Financial-Modelling-Challenge/run.ipynb
