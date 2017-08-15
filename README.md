@@ -15,6 +15,10 @@ I tried both principal components and ridge regressions. Their results are summa
 2) Pincipal component method on average gives better prediction score than ridge regression. However, the best score of ridge regression is much higher than that of principal component.  
 3) Under high penalty, ridge regression suppresses the coefficients of many features but two: 'technical_20' and 'technical_30'. This accidental finding is consistent with other users' observations, such as this analysis on the physical meaning of the two features: https://www.kaggle.com/chenjx1005/physical-meanings-of-technical-20-30
 
-The results of PC and Ridge are published separately in "Results of Principal Component and Ridge Regression.pdf'.
+# Files
 
-The relation of 'technical_20' and 'technical_30' to 'y' is explored further in the Jupyter Notebook run.ipynb.
+Results of PC and Ridge: Results of Principal Component and Ridge Regression.pdf
+
+Code of training the model using PC and Ridge: run.v5.py
+
+Further analysis of 'technical_20' and 'technical_30' to 'y': Further Analysis.ipynb
