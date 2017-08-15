@@ -19,6 +19,4 @@ I tried both principal components and ridge regressions. Their results are summa
 
 Results of PC and Ridge: Results of Principal Component and Ridge Regression.pdf
 
-Code of training the model using PC and Ridge: run.v5.py
-
 Further analysis of 'technical_20' and 'technical_30' to 'y': Further Analysis.ipynb
