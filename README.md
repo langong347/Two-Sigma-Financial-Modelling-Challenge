@@ -20,4 +20,4 @@ This accidental finding is consistent with other users' observations, such as th
 
 Results of PC and Ridge: Results of Principal Component and Ridge Regression.pdf
 
-Further analysis of 'technical_20' and 'technical_30' to 'y': Further Analysis.ipynb
+Further analysis of features 'technical_20' and 'technical_30' to 'y': Further Analysis.ipynb
