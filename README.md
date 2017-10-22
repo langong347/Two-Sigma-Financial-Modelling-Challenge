@@ -19,5 +19,6 @@ This accidental finding is consistent with other users' observations, such as th
 # Files
 
 Results of PC and Ridge: Results of Principal Component and Ridge Regression.pdf
-
+Relevant python code: ./code/run.v$i.py with $i being the largest integer (standing for the most recent update)
 Further analysis of features 'technical_20' and 'technical_30' to 'y': Further Analysis.ipynb
+
