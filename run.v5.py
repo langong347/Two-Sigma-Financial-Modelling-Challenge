@@ -94,7 +94,6 @@ class Model:
             self.regr = ElasticNetCV(l1_ratio=np.arange(0.1,1.1)*0.1,\
                         n_alphas=3,alphas = np.array([0.01,0.1,1])*1E7)
         elif mode == 'E':
-            #https://www.kaggle.com/the1owl/initial-script/code
             self.model = 'ETR'
             self.regr = ETR(n_estimators=500,max_depth=10,\
                             max_features='auto',\
