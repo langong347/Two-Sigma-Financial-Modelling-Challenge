@@ -23,5 +23,5 @@ Modeling Approaches and Results:
 
 [Python code](code/)
 
-[Further analysis of features technical_20 and technical_30 to y](Further Analysis.ipynb)
+[Further analysis of features technical\_20 and technical\_30 to y](Further Analysis.ipynb)
 
