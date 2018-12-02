@@ -19,7 +19,7 @@ Modeling Approaches and Results:
 
 # Files
 
-[Summary](ResultsSummary_TwoSigmaChallenge.pdf): a good overview of my results and analysis
+[A good overview of my results and analysis](ResultsSummary_TwoSigmaChallenge.pdf) 
 
 [Python code](code/)
 
