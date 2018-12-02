@@ -19,9 +19,9 @@ Modeling Approaches and Results:
 
 # Files
 
-./ResultsSummary_TwoSigmaChallenge.pdf: a good overview of my results and analysis
+[Summary](ResultsSummary_TwoSigmaChallenge.pdf): a good overview of my results and analysis
 
-Python code: ./code/
+[Python code](code/)
 
-Further analysis of features 'technical_20' and 'technical_30' to 'y': ./Further Analysis.ipynb
+[Further analysis of features 'technical_20' and 'technical_30' to 'y'](Further Analysis.ipynb)
 
