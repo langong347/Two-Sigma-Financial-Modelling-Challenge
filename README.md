@@ -21,7 +21,7 @@ Modeling Approaches and Results:
 
 [A good overview of my results and analysis](ResultsSummary_TwoSigmaChallenge.pdf) 
 
-[Python code](code/)
+[Python code](run.v5.py)
 
 [Further analysis of features technical\_20 and technical\_30 to y](Further Analysis.ipynb)
 
